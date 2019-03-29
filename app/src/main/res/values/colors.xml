@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#470808</color>
+    <color name="colorPrimary">#2C1800</color>
+    <color name="colorAccent">#000</color>
+    <color name="screenBackground">#6F4930</color>
+    <color name="title">#2C1800</color>
+    <color name="origin">#2C1800</color>
+    <color name="percentage">#2C1800</color>
+    <color name="composition">#000000</color>
+    <color name="price">#FFF</color>
+    <color name="chocotte">#FFF</color>
+    <color name="fond">#4E381D</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chocovorre</string>
+    <string name="action_settings">Settings</string>
+    <string name="image">image</string>
+    <string name="description_text">Chez Etiquable, nous vous garantissons des produits issus de l\'agriculture Biologique et du commerce équitable.
+
+
+        En croquant notre chocolat, vous défendez des cultures paysannes diversifiées et goûtez aux meilleures fèves de cacao du monde."</string>
+    <string name="app_title">ETHIQUABLE</string>
+    <string name="button">CHOISISSEZ VOTRE CHOCOLAT</string>
+    <string name="description">Composition du chocolat</string>
+
+</resources>
